@@ -1,0 +1,9 @@
+{
+    "id":       "jid1-BbskqLJrcbtAIA",
+    "name":     "copyurl",
+    "license":  "BSD 2-clauses",
+    "author":   "Clément MATHIEU",
+    "version":  "0.1",
+    "fullName": "Copy URL",
+    "description": "Copy URL and title of the current tab in the clipboard"
+}
